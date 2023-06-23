@@ -3,6 +3,8 @@
 # Shystra
 
 ## Olá Pessoal✌️
+Sou apaixonado por resolver problemas utilizando a programação.
+Analise e Desenvolvimento de Sistemas 💻
 ## ________________________________________________________________
 ![Shystra GitHub stats](https://github-readme-stats.vercel.app/api?username=shystra&show_icons=true&theme=radical)
 ## ________________________________________________________________
