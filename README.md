@@ -5,14 +5,11 @@
 ## Olá Pessoal✌️
 Sou apaixonado por resolver problemas utilizando a programação.
 Analise e Desenvolvimento de Sistemas 💻
-## ________________________________________________________________
+
 ![Shystra GitHub stats](https://github-readme-stats.vercel.app/api?username=shystra&show_icons=true&theme=radical)
-## ________________________________________________________________
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/httpsluucas/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-a94193229/)
-
-
 
 # My Skills
 
@@ -32,6 +29,9 @@ Analise e Desenvolvimento de Sistemas 💻
     
 
 </div>
+
+## Projeto Atual
+* https://github.com/Shystra/New_Journey
 
 
 
