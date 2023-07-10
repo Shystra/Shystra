@@ -34,7 +34,7 @@ Analise e Desenvolvimento de Sistemas 💻
 ## Projeto Atual
 * https://github.com/Shystra/react_Barbearia
 * https://github.com/Shystra/Book_Api
-* https://github.com/Shystra/New_Journey
+* https://github.com/Shystra/Hero_Node
 
 
 
