@@ -32,6 +32,7 @@ Analise e Desenvolvimento de Sistemas 💻
 </div>
 
 ## Projeto Atual
+* https://github.com/Shystra/Hero_Tickets
 
 * https://github.com/Shystra/my_Portfolio
 * https://github.com/Shystra/Pomodoro
