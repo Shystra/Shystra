@@ -31,6 +31,7 @@ Analise e Desenvolvimento de Sistemas 💻
 </div>
 
 ## Projeto Atual
+* https://github.com/Shystra/chatProject
 * https://github.com/Shystra/form_Multistep
 * https://github.com/Shystra/Hero_Tickets
 * https://github.com/Shystra/Hero_Tickets_URL
