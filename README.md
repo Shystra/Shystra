@@ -2,6 +2,8 @@
 
 # Shystra
 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Shystra/5ba36dea80f4f9201f72bb94a559c3aa/raw/800bbb29de62cf7f5bf2f5d0cce5eff9ce5e852b/githubcard.svg"/>
+
 ## Olá Pessoal✌️
 Sou apaixonado por resolver problemas utilizando a programação.
 Analise e Desenvolvimento de Sistemas 💻
