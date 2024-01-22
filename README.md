@@ -39,7 +39,7 @@ Analise e Desenvolvimento de Sistemas 💻
 * https://github.com/Shystra/Hero_Tickets_URL
   
 
-
+![snake gif](https://github.com/Formandodev/Shystra/blob/output/github-contribution-grid-snake.svg)
 
 
 
