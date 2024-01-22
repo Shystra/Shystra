@@ -7,15 +7,17 @@
 ## Hello guys✌️
 - 🔥 Junior Web Developer
 - 💻 All of my projects are available at https://my-portfolio-psi-coral-85.vercel.app/
-- 📚 I study Systems Analysis and Development and Business Administration
-  
+- 📚 I study Systems Analysis and Development and Business Administration  
 -  Actually I work with development using App Google Script with JavaScript and in other cases I use Python and SQL for new integrations.
-- ![OfficeGIF (2)](https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71)
+
 
   
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-a94193229/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/httpsluucas/)
+
+
+![OfficeGIF (2)](https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71)
 
 
 
