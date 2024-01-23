@@ -6,10 +6,10 @@
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/Shystra/5ba36dea80f4f9201f72bb94a559c3aa/raw/800bbb29de62cf7f5bf2f5d0cce5eff9ce5e852b/githubcard.svg"/>
 
 ## Hello guys✌️
-- 🔥 Junior Web Developer
+- 🔥 Developer Full Stack. (I love FrontEnd and BackEnd and I currently work with both)
 - 💻 All of my projects are available at https://my-portfolio-psi-coral-85.vercel.app/
 - 📚 I study Systems Analysis and Development and Business Administration  
--  Actually I work with development using App Google Script with JavaScript and in other cases I use Python and SQL for new integrations.
+- 🧙‍♂️ Currently I work with development using App Google Script with JavaScript and in other cases I use Python and SQL for new integrations.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-a94193229/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/httpsluucas/)
