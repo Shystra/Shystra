@@ -4,10 +4,17 @@
 ![OfficeGIF (2)](https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71)
 
 ## Hello guys✌️
-- 🔥 Developer Full Stack. (I love FrontEnd and BackEnd and I currently work with both)
-- 💻 All of my projects are available at https://my-portfolio-psi-coral-85.vercel.app/
-- 📚 I study Systems Analysis and Development and Business Administration  
-- 🧙‍♂️ Currently I work with development using App Google Script with JavaScript and in other cases I use Python and SQL for new integrations.
+- 🔥 Sou um Engenheiro de Software atuando em duas empresas simultaneamente.
+- 💻 Front-end Developer: Especialista em Angular, TypeScript, JavaScript e desenvolvimento de interfaces responsivas e escaláveis. Analista de Dados e Desenvolvedor: Trabalho com SQL, Python, Google Apps Script, Power BI (DAX, Power Query) para criar automações e análises avançadas.
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e Administração de Empresas.
+- 🎯 Tenho experiência com automação de processos, análise de dados, desenvolvimento de dashboards interativos e otimização de performance em aplicações web.
+
+💻Tecnologias que utilizo no dia a dia:
+🔹 Front-end: Angular, TypeScript, JavaScript, React, HTML, CSS
+🔹 Back-end & Data: SQL, Python, Google Apps Script
+🔹 Cloud & DevOps: AWS, Azure
+🔹 Business Intelligence: Power BI (DAX, Power Query)
+🔹 APIs & Documentação: Swagger
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-a94193229/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/httpsluucas/)
@@ -25,8 +32,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-    
 </div>
 
 ## Projeto Atual
