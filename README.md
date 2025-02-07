@@ -3,8 +3,6 @@
 # Shystra
 ![OfficeGIF (2)](https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71)
 
-//<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/Shystra/5ba36dea80f4f9201f72bb94a559c3aa/raw/800bbb29de62cf7f5bf2f5d0cce5eff9ce5e852b/githubcard.svg"/>
-
 ## Hello guys✌️
 - 🔥 Developer Full Stack. (I love FrontEnd and BackEnd and I currently work with both)
 - 💻 All of my projects are available at https://my-portfolio-psi-coral-85.vercel.app/
