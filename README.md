@@ -6,7 +6,7 @@
 ## Hello guys✌️
 - 🔥 Sou um Engenheiro de Software atuando em duas empresas simultaneamente.
 - 💻 Front-end Developer: Especialista em Angular, TypeScript, JavaScript e desenvolvimento de interfaces responsivas e escaláveis. Analista de Dados e Desenvolvedor: Trabalho com SQL, Python, Google Apps Script, Power BI (DAX, Power Query) para criar automações e análises avançadas.
-- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e Administração de Empresas.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas e Administração de Empresas.
 - 🎯 Tenho experiência com automação de processos, análise de dados, desenvolvimento de dashboards interativos e otimização de performance em aplicações web.
 
 💻Tecnologias que utilizo no dia a dia:
