@@ -3,7 +3,6 @@
 # Shystra
 ![OfficeGIF (2)](https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71)
 
-## Hello guys✌️
 - 🔥 Sou um Engenheiro de Software atuando em duas empresas simultaneamente.
 - 💻 Front-end Developer: Especialista em Angular, TypeScript, JavaScript e desenvolvimento de interfaces responsivas e escaláveis. Analista de Dados e Desenvolvedor: Trabalho com SQL, Python, Google Apps Script, Power BI (DAX, Power Query) para criar automações e análises avançadas.
 - 📚 Formado em Análise e Desenvolvimento de Sistemas e Administração de Empresas.
@@ -11,7 +10,8 @@
 
 💻Tecnologias que utilizo no dia a dia:
 🔹 Front-end: Angular, TypeScript, JavaScript, React, HTML, CSS
-🔹 Back-end & Data: SQL, Python, Google Apps Script
+🔹 Back-end & Data: SQL, Python, Google Apps Script, .Net
+🔹 Mobile: Flutter
 🔹 Cloud & DevOps: AWS, Azure
 🔹 Business Intelligence: Power BI (DAX, Power Query)
 🔹 APIs & Documentação: Swagger
