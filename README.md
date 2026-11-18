@@ -1,57 +1,34 @@
-# João Lucas Souza
+# Oi, eu sou o João Lucas 👋
 
-**Desenvolvedor Full Stack | C#/.NET · Angular · React**
+**Desenvolvedor Full Stack · Curitiba, Brasil**
 
-Desenvolvo aplicações web, APIs, integrações com dispositivos e automações. Minha experiência reúne software para controle de acesso escolar, monitoramento de vídeo, segurança pública e gestão operacional.
+Gosto de construir soluções que conectam software, pessoas e dispositivos. Trabalho com **C#/.NET, Angular e React**, passando também por Python, Flutter, automação e dados.
 
-Atuo como Engenheiro de Software Front-end no Sistema IRIS e como Analista de Business Intelligence e Desenvolvedor Full Stack no Grupo Intersept.
+Do agendamento de um salão na Europa ao controle de acesso de uma escola, gosto de acompanhar uma ideia até ela virar um produto em uso.
 
-## Projetos e entregas
+<p align="center">
+  <a href="https://github.com/Shystra?tab=repositories">
+    <img src="https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71" alt="GIF animado de apresentação. Clique para explorar meus repositórios." width="420" />
+  </a>
+</p>
 
-### ClassVision | Controle de acesso escolar
+### O que tenho construído 🚀
 
-Sistema com front-end Angular e backend C# para controle de acesso e rotinas escolares. Inclui registro automático de presença por reconhecimento facial nos dispositivos de borda e aplicativo mobile publicado na App Store e no Google Play.
+- **ClassVision:** controle de acesso escolar e presença automática com reconhecimento facial de borda.
+- **BellaHair:** gestão de salões na Europa, com agendamentos e pagamentos pelo app.
+- **Vídeo e dispositivos:** VMS com múltiplos fabricantes e monitoramento de equipamentos via ISUP.
+- **Em desenvolvimento:** analíticos de vídeo com reconhecimento facial, leitura de placas e busca semântica.
 
-### Monitoramento ISUP | Segurança pública
+Os apps **ClassVision** e **BellaHair** estão publicados na App Store e no Google Play. Parte dos projetos profissionais fica em repositórios privados.
 
-Desenvolvi uma aplicação com React, TypeScript e C#/.NET para acompanhar a comunicação, a disponibilidade e os eventos de equipamentos Hikvision via ISUP/EHome. A solução recebe registros, heartbeats e alarmes, apresenta status online/offline e mantém histórico de eventos, com atualizações em tempo real via SignalR.
+### Na minha caixa de ferramentas 🛠️
 
-Tecnologias: React, TypeScript, Vite, ASP.NET Core, SignalR, PostgreSQL, Entity Framework Core, Identity, JWT e integração com SDK nativo via P/Invoke.
+**Web & backend:** C#/.NET · Angular · React · TypeScript · APIs · gRPC  
+**Além da web:** Python · Flutter · SQL · PostgreSQL · Power BI  
+**Entrega:** Git · Azure DevOps · AWS
 
-### VMS | Vídeo e integração de fabricantes
+Sempre aprendendo e explorando formas de integrar essas peças.
 
-Desenvolvimento de uma plataforma de gerenciamento de vídeo que integra equipamentos de múltiplos fabricantes. Também participo do desenvolvimento de um servidor analítico para adicionar reconhecimento facial, leitura de placas e busca semântica a imagens de câmeras sem esses recursos nativos.
+---
 
-**Em desenvolvimento:** servidor analítico e recursos de inteligência sobre vídeo.
-
-### Aplicações operacionais e automações
-
-- Desenvolvimento de aplicações web, APIs em .NET e soluções mobile para equipes técnicas e processos internos.
-- Integrações em Python com equipamentos Hikvision, Dahua e Intelbras.
-- Automações para processamento de PDFs, extração e tratamento de dados e integração com Google Sheets.
-- Dashboards financeiros e operacionais com Power BI, DAX, Power Query e SQL.
-
-Parte dos projetos profissionais está em repositórios privados. As descrições apresentam o escopo das soluções sem expor código ou dados internos.
-
-## Tecnologias
-
-| Área | Tecnologias |
-| --- | --- |
-| Front-end | Angular, React, TypeScript, JavaScript, Angular Material, NgRx, NGXS |
-| Backend e integrações | C#/.NET, ASP.NET Core, Python, Node.js, APIs REST, SignalR, ISUP/EHome |
-| Dados | PostgreSQL, SQL, MongoDB, Entity Framework Core |
-| Mobile | Flutter |
-| Automação e BI | Google Apps Script, Power BI, DAX, Power Query |
-| Cloud e entrega | AWS (EC2, RDS, S3), Azure DevOps, Git, GitHub, CI/CD |
-| Visão computacional | YOLO, processamento de imagens, integração com câmeras |
-
-## Formação
-
-- Análise e Desenvolvimento de Sistemas - Estácio, concluído em 2025.
-- Bacharelado em Administração - UniCesumar, concluído em 2024.
-- MBA em Ciências de Dados e Inteligência Artificial - Uninter, em andamento.
-- Especialização em Cloud e DevOps - Uninter, em andamento.
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/joao-souza-pereira) · [E-mail](mailto:jlsp.2010@hotmail.com)
+[Vamos conversar no LinkedIn](https://www.linkedin.com/in/joao-souza-pereira) · [E-mail](mailto:jlsp.2010@hotmail.com)
