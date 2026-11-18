@@ -1,44 +1,57 @@
+# João Lucas Souza
 
+**Desenvolvedor Full Stack | C#/.NET · Angular · React**
 
-# Shystra
-![OfficeGIF (2)](https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71)
+Desenvolvo aplicações web, APIs, integrações com dispositivos e automações. Minha experiência reúne software para controle de acesso escolar, monitoramento de vídeo, segurança pública e gestão operacional.
 
-- 🔥 Sou um Engenheiro de Software atuando em duas empresas simultaneamente.
-- 💻 Front-end Developer: Especialista em Angular, TypeScript, JavaScript e desenvolvimento de interfaces responsivas e escaláveis. Analista de Dados e Desenvolvedor: Trabalho com SQL, Python, Google Apps Script, Power BI (DAX, Power Query) para criar automações e análises avançadas.
-- 📚 Formado em Análise e Desenvolvimento de Sistemas e Administração de Empresas.
-- 🎯 Tenho experiência com automação de processos, análise de dados, desenvolvimento de dashboards interativos e otimização de performance em aplicações web.
+Atuo como Engenheiro de Software Front-end no Sistema IRIS e como Analista de Business Intelligence e Desenvolvedor Full Stack no Grupo Intersept.
 
-💻Tecnologias que utilizo no dia a dia:
-🔹 Front-end: Angular, TypeScript, JavaScript, React, HTML, CSS
-🔹 Back-end & Data: SQL, Python, Google Apps Script, .Net
-🔹 Mobile: Flutter
-🔹 Cloud & DevOps: AWS, Azure
-🔹 Business Intelligence: Power BI (DAX, Power Query)
-🔹 APIs & Documentação: Swagger
+## Projetos e entregas
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-a94193229/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/httpsluucas/)
+### ClassVision | Controle de acesso escolar
 
-# My Skills
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
+Sistema com front-end Angular e backend C# para controle de acesso e rotinas escolares. Inclui registro automático de presença por reconhecimento facial nos dispositivos de borda e aplicativo mobile publicado na App Store e no Google Play.
 
-## Projeto Atual
-* https://github.com/Shystra/chatProject
-* https://github.com/Shystra/form_Multistep
-* https://github.com/Shystra/Hero_Tickets
-* https://github.com/Shystra/Hero_Tickets_URL
-  
+### Monitoramento ISUP | Segurança pública
 
+Desenvolvi uma aplicação com React, TypeScript e C#/.NET para acompanhar a comunicação, a disponibilidade e os eventos de equipamentos Hikvision via ISUP/EHome. A solução recebe registros, heartbeats e alarmes, apresenta status online/offline e mantém histórico de eventos, com atualizações em tempo real via SignalR.
 
+Tecnologias: React, TypeScript, Vite, ASP.NET Core, SignalR, PostgreSQL, Entity Framework Core, Identity, JWT e integração com SDK nativo via P/Invoke.
+
+### VMS | Vídeo e integração de fabricantes
+
+Desenvolvimento de uma plataforma de gerenciamento de vídeo que integra equipamentos de múltiplos fabricantes. Também participo do desenvolvimento de um servidor analítico para adicionar reconhecimento facial, leitura de placas e busca semântica a imagens de câmeras sem esses recursos nativos.
+
+**Em desenvolvimento:** servidor analítico e recursos de inteligência sobre vídeo.
+
+### Aplicações operacionais e automações
+
+- Desenvolvimento de aplicações web, APIs em .NET e soluções mobile para equipes técnicas e processos internos.
+- Integrações em Python com equipamentos Hikvision, Dahua e Intelbras.
+- Automações para processamento de PDFs, extração e tratamento de dados e integração com Google Sheets.
+- Dashboards financeiros e operacionais com Power BI, DAX, Power Query e SQL.
+
+Parte dos projetos profissionais está em repositórios privados. As descrições apresentam o escopo das soluções sem expor código ou dados internos.
+
+## Tecnologias
+
+| Área | Tecnologias |
+| --- | --- |
+| Front-end | Angular, React, TypeScript, JavaScript, Angular Material, NgRx, NGXS |
+| Backend e integrações | C#/.NET, ASP.NET Core, Python, Node.js, APIs REST, SignalR, ISUP/EHome |
+| Dados | PostgreSQL, SQL, MongoDB, Entity Framework Core |
+| Mobile | Flutter |
+| Automação e BI | Google Apps Script, Power BI, DAX, Power Query |
+| Cloud e entrega | AWS (EC2, RDS, S3), Azure DevOps, Git, GitHub, CI/CD |
+| Visão computacional | YOLO, processamento de imagens, integração com câmeras |
+
+## Formação
+
+- Análise e Desenvolvimento de Sistemas - Estácio, concluído em 2025.
+- Bacharelado em Administração - UniCesumar, concluído em 2024.
+- MBA em Ciências de Dados e Inteligência Artificial - Uninter, em andamento.
+- Especialização em Cloud e DevOps - Uninter, em andamento.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/joao-souza-pereira) · [E-mail](mailto:jlsp.2010@hotmail.com)
