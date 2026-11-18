@@ -1,34 +1,34 @@
-# Oi, eu sou o João Lucas 👋
+# Hi, I'm João Lucas 👋
 
-**Desenvolvedor Full Stack · Curitiba, Brasil**
+**Full Stack Developer · Curitiba, Brazil**
 
-Gosto de construir soluções que conectam software, pessoas e dispositivos. Trabalho com **C#/.NET, Angular e React**, passando também por Python, Flutter, automação e dados.
+I enjoy building solutions that connect software, people and devices. I work with **C#/.NET, Angular and React**, alongside Python, Flutter, automation and data.
 
-Do agendamento de um salão na Europa ao controle de acesso de uma escola, gosto de acompanhar uma ideia até ela virar um produto em uso.
+From salon bookings in Europe to school access control, I like taking an idea all the way to a working product.
 
 <p align="center">
   <a href="https://github.com/Shystra?tab=repositories">
-    <img src="https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71" alt="GIF animado de apresentação. Clique para explorar meus repositórios." width="420" />
+    <img src="https://github.com/Shystra/Shystra/assets/124002796/3261dfa9-09da-41b5-9f1e-fec31e5f1f71" alt="Animated introduction GIF. Click to explore my repositories." width="420" />
   </a>
 </p>
 
-### O que tenho construído 🚀
+### What I've been building 🚀
 
-- **ClassVision:** controle de acesso escolar e presença automática com reconhecimento facial de borda.
-- **BellaHair:** gestão de salões na Europa, com agendamentos e pagamentos pelo app.
-- **Vídeo e dispositivos:** VMS com múltiplos fabricantes e monitoramento de equipamentos via ISUP.
-- **Em desenvolvimento:** analíticos de vídeo com reconhecimento facial, leitura de placas e busca semântica.
+- **ClassVision:** school access control and automated attendance using edge-based facial recognition.
+- **BellaHair:** salon management in Europe, with in-app bookings and payments.
+- **Video & devices:** a multi-vendor VMS and device monitoring through ISUP.
+- **In development:** video analytics with facial recognition, license plate recognition and semantic search.
 
-Os apps **ClassVision** e **BellaHair** estão publicados na App Store e no Google Play. Parte dos projetos profissionais fica em repositórios privados.
+**ClassVision** and **BellaHair** are available on the App Store and Google Play. Some professional projects are kept in private repositories.
 
-### Na minha caixa de ferramentas 🛠️
+### My toolbox 🛠️
 
 **Web & backend:** C#/.NET · Angular · React · TypeScript · APIs · gRPC  
-**Além da web:** Python · Flutter · SQL · PostgreSQL · Power BI  
-**Entrega:** Git · Azure DevOps · AWS
+**Beyond the web:** Python · Flutter · SQL · PostgreSQL · Power BI  
+**Delivery:** Git · Azure DevOps · AWS
 
-Sempre aprendendo e explorando formas de integrar essas peças.
+Always learning and exploring new ways to connect these pieces.
 
 ---
 
-[Vamos conversar no LinkedIn](https://www.linkedin.com/in/joao-souza-pereira) · [E-mail](mailto:jlsp.2010@hotmail.com)
+[Let's connect on LinkedIn](https://www.linkedin.com/in/joao-souza-pereira) · [Email](mailto:jlsp.2010@hotmail.com)
